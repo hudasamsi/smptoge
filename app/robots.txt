@@ -5,4 +5,4 @@ Disallow:
 # Allow all crawlers
 User-agent: *
 Allow: /
-sitemap: https://bociltoge.pages.dev/sitemap.xml
+sitemap: https://smptoge.pages.dev/sitemap.xml
